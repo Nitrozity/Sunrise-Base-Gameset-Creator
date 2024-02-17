@@ -1,0 +1,12 @@
+C:\Users\Shane\source\repos\Sunrise Base Gameset Creator\Sunrise Base Gameset Creator\bin\Debug\Sunrise Base Gameset Creator.exe.config
+C:\Users\Shane\source\repos\Sunrise Base Gameset Creator\Sunrise Base Gameset Creator\bin\Debug\Sunrise Base Gameset Creator.exe
+C:\Users\Shane\source\repos\Sunrise Base Gameset Creator\Sunrise Base Gameset Creator\bin\Debug\Sunrise Base Gameset Creator.pdb
+C:\Users\Shane\source\repos\Sunrise Base Gameset Creator\Sunrise Base Gameset Creator\bin\Debug\Sunrise Base Gameset Creator.xml
+C:\Users\Shane\source\repos\Sunrise Base Gameset Creator\Sunrise Base Gameset Creator\obj\Debug\Sunrise Base Gameset Creator.vbprojAssemblyReference.cache
+C:\Users\Shane\source\repos\Sunrise Base Gameset Creator\Sunrise Base Gameset Creator\obj\Debug\Sunrise_Base_Gameset_Creator.Form1.resources
+C:\Users\Shane\source\repos\Sunrise Base Gameset Creator\Sunrise Base Gameset Creator\obj\Debug\Sunrise_Base_Gameset_Creator.Resources.resources
+C:\Users\Shane\source\repos\Sunrise Base Gameset Creator\Sunrise Base Gameset Creator\obj\Debug\Sunrise Base Gameset Creator.vbproj.GenerateResource.cache
+C:\Users\Shane\source\repos\Sunrise Base Gameset Creator\Sunrise Base Gameset Creator\obj\Debug\Sunrise Base Gameset Creator.vbproj.CoreCompileInputs.cache
+C:\Users\Shane\source\repos\Sunrise Base Gameset Creator\Sunrise Base Gameset Creator\obj\Debug\Sunrise Base Gameset Creator.exe
+C:\Users\Shane\source\repos\Sunrise Base Gameset Creator\Sunrise Base Gameset Creator\obj\Debug\Sunrise Base Gameset Creator.xml
+C:\Users\Shane\source\repos\Sunrise Base Gameset Creator\Sunrise Base Gameset Creator\obj\Debug\Sunrise Base Gameset Creator.pdb
